@@ -1,0 +1,14 @@
+{
+  "name": "covid19-map",
+  "version": "1.0.0",
+  "description": "Mapa mundial de los casos confirmados de coronavirus en el mundo",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "pahoalapizco",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
